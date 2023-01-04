@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcosStevanini
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and React-Native
 - 📞 How to reach me --> instagram.com/marcos.stevanini
 - 📞 +55 22 98837-9588
 <!---
